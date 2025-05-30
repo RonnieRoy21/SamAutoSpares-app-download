@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Download Our App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f9fb;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      color: #555;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 30px;
+      font-size: 18px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Download Sam Auto Spares eCommerce App</h1>
+  <p>Your shopping experience made easier. Tap the button below to install the app.</p>
+
+  <a class="btn" href="https://1drv.ms/u/s!Arzo4CeWYT4YgShj5bNuNA5Lh1k1?e=JLZsi6" download>
+    Download App (APK)
+  </a>
+
+  <p style="margin-top:40px; font-size:14px; color:#888;">
+    Having trouble? Enable "Install from unknown sources" in your phone settings.
+  </p>
+
+</body>
+</html>
